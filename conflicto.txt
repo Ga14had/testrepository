@@ -1,1 +1,1 @@
-Este es un contenido para crear problemas entre archivos
+Este es un contenido para crear conflictos
